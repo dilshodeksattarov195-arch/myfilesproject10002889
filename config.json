@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcncrypt",
+        "uuid": 23421123,
+        "checksum": "96dfkc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
